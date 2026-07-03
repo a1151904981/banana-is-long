@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Long-Context Interaction Patterns in LLM-Assisted Software Engineering Tasks"
+message: "If you use this research, please cite it using the metadata below."
+authors:
+  - family-names: "Research Archive"
+    given-names: "Academic"
+date-released: 2026-07-02
+version: "1.0"
+repository-code: "https://github.com/a1151904981/banana-is-long"
+license: MIT
